@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Globalization;
+using System.IO;
+using System.Linq;
 
 namespace StockAnalyzer
 {
@@ -6,7 +9,13 @@ namespace StockAnalyzer
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var lines = File.ReadAllLines(@"StockData.csv");
+            foreach(var line in lines.Skip(1))
+            {
+                var segments = line.Split(",");
+                var tradeDate = DateTime.Parse(segments[1]);
+                Console.WriteLine(tradeDate.ToLongDateString());
+            }
         }
     }
 }

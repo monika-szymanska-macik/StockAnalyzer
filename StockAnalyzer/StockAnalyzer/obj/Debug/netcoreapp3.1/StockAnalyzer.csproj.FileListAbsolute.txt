@@ -1,0 +1,14 @@
+C:\Users\monik\Desktop\VC2019\StockAnalyzer\StockAnalyzer\StockAnalyzer\bin\Debug\netcoreapp3.1\StockData.csv
+C:\Users\monik\Desktop\VC2019\StockAnalyzer\StockAnalyzer\StockAnalyzer\bin\Debug\netcoreapp3.1\StockAnalyzer.exe
+C:\Users\monik\Desktop\VC2019\StockAnalyzer\StockAnalyzer\StockAnalyzer\bin\Debug\netcoreapp3.1\StockAnalyzer.deps.json
+C:\Users\monik\Desktop\VC2019\StockAnalyzer\StockAnalyzer\StockAnalyzer\bin\Debug\netcoreapp3.1\StockAnalyzer.runtimeconfig.json
+C:\Users\monik\Desktop\VC2019\StockAnalyzer\StockAnalyzer\StockAnalyzer\bin\Debug\netcoreapp3.1\StockAnalyzer.runtimeconfig.dev.json
+C:\Users\monik\Desktop\VC2019\StockAnalyzer\StockAnalyzer\StockAnalyzer\bin\Debug\netcoreapp3.1\StockAnalyzer.dll
+C:\Users\monik\Desktop\VC2019\StockAnalyzer\StockAnalyzer\StockAnalyzer\bin\Debug\netcoreapp3.1\StockAnalyzer.pdb
+C:\Users\monik\Desktop\VC2019\StockAnalyzer\StockAnalyzer\StockAnalyzer\obj\Debug\netcoreapp3.1\StockAnalyzer.csprojAssemblyReference.cache
+C:\Users\monik\Desktop\VC2019\StockAnalyzer\StockAnalyzer\StockAnalyzer\obj\Debug\netcoreapp3.1\StockAnalyzer.AssemblyInfoInputs.cache
+C:\Users\monik\Desktop\VC2019\StockAnalyzer\StockAnalyzer\StockAnalyzer\obj\Debug\netcoreapp3.1\StockAnalyzer.AssemblyInfo.cs
+C:\Users\monik\Desktop\VC2019\StockAnalyzer\StockAnalyzer\StockAnalyzer\obj\Debug\netcoreapp3.1\StockAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\monik\Desktop\VC2019\StockAnalyzer\StockAnalyzer\StockAnalyzer\obj\Debug\netcoreapp3.1\StockAnalyzer.dll
+C:\Users\monik\Desktop\VC2019\StockAnalyzer\StockAnalyzer\StockAnalyzer\obj\Debug\netcoreapp3.1\StockAnalyzer.pdb
+C:\Users\monik\Desktop\VC2019\StockAnalyzer\StockAnalyzer\StockAnalyzer\obj\Debug\netcoreapp3.1\StockAnalyzer.genruntimeconfig.cache
